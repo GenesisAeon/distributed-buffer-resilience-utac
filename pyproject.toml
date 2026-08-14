@@ -1,0 +1,47 @@
+[project]
+name = "distributed-buffer-resilience-utac"
+version = "1.0.0"
+description = "Distributed hydrological/ecosystem buffer resilience for deglacierizing catchments -- van Tiel et al. 2026's drought-buffer evidence, Farinotti et al. 2016/2019's storage-portfolio figures, Immerzeel/Pritchard water-tower science, Casallas et al. 2025 ecosystem-service trade-offs, plus a clearly-flagged speculative GBR score -- companion to glacier-buffer-utac (P99) and glacier-buffer-replacement-utac (P100), no UTAC/CREP bridge"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Römer, Johann" }]
+requires-python = ">=3.11"
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/GenesisAeon/distributed-buffer-resilience-utac"
+Repository = "https://github.com/GenesisAeon/distributed-buffer-resilience-utac"
+
+[project.optional-dependencies]
+dev = [
+    "ruff>=0.6.0",
+    "mypy>=1.10.0",
+    "pre-commit>=3.7.0",
+    "pytest>=8.0.0",
+    "pytest-cov>=5.0.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/distributed_buffer_resilience_utac"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "B", "I", "W", "UP"]
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
+warn_return_any = true
+warn_unused_configs = true
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--cov=distributed_buffer_resilience_utac --cov-report=term-missing -v"

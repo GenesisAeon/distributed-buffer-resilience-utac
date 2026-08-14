@@ -1,0 +1,102 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Römer
+    given-names: Johann
+    affiliation: "MOR Research Collective"
+title: "distributed-buffer-resilience-utac"
+version: "1.0.0"
+date-released: "2026-08-14"
+url: "https://github.com/GenesisAeon/distributed-buffer-resilience-utac"
+repository-code: "https://github.com/GenesisAeon/distributed-buffer-resilience-utac"
+license: MIT
+abstract: "Distributed hydrological/ecosystem buffer resilience for deglacierizing catchments: van Tiel et al. 2026's drought-buffer evidence, Farinotti et al. 2016/2019's storage-portfolio figures, Immerzeel/Pritchard water-tower science, Casallas et al. 2025 ecosystem-service trade-offs, plus a clearly-flagged speculative Glacier Buffer Replacement score. Companion to glacier-buffer-utac (P99) and glacier-buffer-replacement-utac (P100). Deliberately no UTAC/CREP/AFET bridge. GenesisAeon P103."
+keywords:
+  - GenesisAeon
+  - P103
+  - climate
+  - glacier
+  - hydrology
+  - ecosystem-services
+  - water-towers
+  - open-science
+references:
+  - type: article
+    title: "Swiss glacier mass loss during the 2022 drought: persistent streamflow contributions amid declining melt water volumes"
+    authors:
+      - name: "van Tiel, M."
+      - name: "Huss, M."
+      - name: "Zappa, M."
+      - name: "Jonas, T."
+      - name: "Farinotti, D."
+    year: 2026
+    journal: "Hydrology and Earth System Sciences"
+    volume: 30
+    start: 23
+    doi: "10.5194/hess-30-23-2026"
+  - type: article
+    title: "From dwindling ice to headwater lakes: could dams replace glaciers in the European Alps?"
+    authors:
+      - name: "Farinotti, D."
+      - name: "Pistocchi, A."
+      - name: "Huss, M."
+    year: 2016
+    journal: "Environmental Research Letters"
+    volume: 11
+    issue: 5
+    doi: "10.1088/1748-9326/11/5/054022"
+  - type: article
+    title: "Large hydropower and water-storage potential in future glacier-free basins"
+    authors:
+      - name: "Farinotti, D."
+      - name: "Round, V."
+      - name: "Huss, M."
+      - name: "Compagno, L."
+      - name: "Zekollari, H."
+    year: 2019
+    journal: "Nature"
+    volume: 575
+    start: 341
+    doi: "10.1038/s41586-019-1740-z"
+  - type: article
+    title: "Global-scale hydrological response to future glacier mass loss"
+    authors:
+      - name: "Huss, M."
+      - name: "Hock, R."
+    year: 2018
+    journal: "Nature Climate Change"
+    volume: 8
+    start: 135
+    doi: "10.1038/s41558-017-0049-x"
+  - type: article
+    title: "Asia's glaciers are a regionally important buffer against drought"
+    authors:
+      - name: "Pritchard, H.D."
+    year: 2017
+    journal: "Nature"
+    volume: 545
+    start: 169
+    doi: "10.1038/nature22062"
+  - type: article
+    title: "Importance and vulnerability of the world's water towers"
+    authors:
+      - name: "Immerzeel, W.W."
+      - name: "Lutz, A.F."
+      - name: "Andrade, M."
+    year: 2020
+    journal: "Nature"
+    volume: 577
+    start: 364
+    doi: "10.1038/s41586-019-1822-y"
+  - type: article
+    title: "Global impacts of glacier retreat on ecosystem services provided by soil and vegetation in mountain regions: A literature review"
+    authors:
+      - name: "Velasquez Casallas, L.M."
+      - name: "Khelidj, N."
+      - name: "Moran-Ordonez, A."
+      - name: "Losapio, G."
+    year: 2025
+    journal: "Ecosystem Services"
+    volume: 73
+    doi: "10.1016/j.ecoser.2025.101730"

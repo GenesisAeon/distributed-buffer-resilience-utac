@@ -1,0 +1,29 @@
+{
+  "title": "distributed-buffer-resilience-utac — P103: Distributed hydrological/ecosystem buffer resilience",
+  "description": "<p>Distributed hydrological/ecosystem buffer resilience for deglacierizing catchments: van Tiel et al. 2026's drought-buffer evidence (the strongest empirical anchor in the P99-P103 series), Farinotti et al. 2016/2019's storage-portfolio figures, Immerzeel/Pritchard water-tower science, and Casallas et al. 2025 ecosystem-service trade-offs, plus a clearly-flagged speculative Glacier Buffer Replacement (GBR) score. Companion to glacier-buffer-utac (P99) and glacier-buffer-replacement-utac (P100). Deliberately has NO UTAC/CREP/AFET bridge. See DISCLAIMER.md. Part of the <strong>GenesisAeon</strong> ecosystem (P103, domain: climate / hydrology / ecosystem services).</p>",
+  "creators": [
+    {
+      "name": "Römer, Johann",
+      "affiliation": "Independent Researcher / MOR Research Collective"
+    }
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "version": "1.0.0",
+  "keywords": [
+    "GenesisAeon",
+    "P103",
+    "climate",
+    "glacier",
+    "hydrology",
+    "ecosystem-services",
+    "water-towers",
+    "open-science"
+  ],
+  "communities": [
+    {
+      "identifier": "genesisaeon"
+    }
+  ]
+}
