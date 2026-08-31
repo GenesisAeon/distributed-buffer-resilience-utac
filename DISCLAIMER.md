@@ -1,5 +1,16 @@
 # DISCLAIMER — Two Confidence Tiers, No Framework Bridge
 
+> **Why no UTAC/CREP/AFET bridge:** not only because the cited literature
+> already provides the necessary quantitative structure -- a deliberate
+> choice. This project's highly speculative AFET/UTAC experiments must
+> never stand in the way of climate/ecology topics being accessible and
+> usable to people who don't work inside that construct and aren't
+> looking for renormalization groups. Real, checkable science, without
+> the burden of an unproven framework. See `PACKAGE_REGISTRY.md`'s "Why
+> no UTAC/CREP/AFET bridge in the climate/ecology series" (2026-08-31) in
+> the GenesisAeon workspace root for the full canonical note.
+
+
 **Status: Core = real, independently re-verified science. Optional =
 this ecosystem's own discretization of a source document's proposed
 formula, not a peer-reviewed metric. NO UTAC/CREP/AFET bridge.**
