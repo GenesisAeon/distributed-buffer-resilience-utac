@@ -55,7 +55,7 @@ from .water_towers import (
     water_tower_dependent_population_billions,
 )
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 __all__ = [
     "ALPINE_RESERVOIR_SUMMER_DEFICIT_CEILING_FRACTION",

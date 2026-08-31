@@ -6,8 +6,8 @@ authors:
     given-names: Johann
     affiliation: "MOR Research Collective"
 title: "distributed-buffer-resilience-utac"
-version: "1.0.0"
-date-released: "2026-08-14"
+version: "1.0.1"
+date-released: "2026-08-31"
 url: "https://github.com/GenesisAeon/distributed-buffer-resilience-utac"
 repository-code: "https://github.com/GenesisAeon/distributed-buffer-resilience-utac"
 license: MIT

@@ -8,6 +8,9 @@ resilience for deglacierizing catchments. Companion to
 (P100, technical replacement). **Deliberately has no UTAC/CREP/AFET
 bridge** — see [DISCLAIMER.md](DISCLAIMER.md).
 
+For a plain-language explanation of the same topic (German, no jargon,
+written for general audiences), see [WHITEPAPER.md](WHITEPAPER.md).
+
 ## The core idea
 
 A single storage type can't replace a glacier. What actually buffers a
